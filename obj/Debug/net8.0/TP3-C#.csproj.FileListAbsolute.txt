@@ -1,0 +1,15 @@
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.AssemblyInfoInputs.cache
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.AssemblyInfo.cs
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.csproj.CoreCompileInputs.cache
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.sourcelink.json
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\bin\Debug\net8.0\TP3-C#.exe
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\bin\Debug\net8.0\TP3-C#.deps.json
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\bin\Debug\net8.0\TP3-C#.runtimeconfig.json
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\bin\Debug\net8.0\TP3-C#.dll
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\bin\Debug\net8.0\TP3-C#.pdb
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.dll
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\refint\TP3-C#.dll
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.pdb
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\TP3-C#.genruntimeconfig.cache
+C:\Users\Elo\Desktop\Desafio-C\TP3-C#\TP3-C#\obj\Debug\net8.0\ref\TP3-C#.dll
