@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CityBreaks.TP2
+build_property.RootNamespace = CityBreaks.TP2
+build_property.ProjectDir = C:\Users\Elo\Downloads\TP2_CityBreaks\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Elo\Downloads\TP2_CityBreaks
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Elo/Downloads/TP2_CityBreaks/Pages/CityDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elo/Downloads/TP2_CityBreaks/Pages/CityManager/CreateCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eU1hbmFnZXJcQ3JlYXRlQ2l0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elo/Downloads/TP2_CityBreaks/Pages/CityManager/CreateCityHandler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eU1hbmFnZXJcQ3JlYXRlQ2l0eUhhbmRsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elo/Downloads/TP2_CityBreaks/Pages/CityManager/CreateCityValidated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eU1hbmFnZXJcQ3JlYXRlQ2l0eVZhbGlkYXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elo/Downloads/TP2_CityBreaks/Pages/CityManager/CreateCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eU1hbmFnZXJcQ3JlYXRlQ291bnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elo/Downloads/TP2_CityBreaks/Pages/SaveNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F2ZU5vdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

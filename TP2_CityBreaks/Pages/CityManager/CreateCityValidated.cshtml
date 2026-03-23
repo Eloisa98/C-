@@ -1,0 +1,13 @@
+
+@page
+@model CreateCityValidatedModel
+
+<form method="post">
+    <input asp-for="Input.CityName" />
+    <span asp-validation-for="Input.CityName"></span>
+    <button type="submit">Enviar</button>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

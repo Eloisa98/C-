@@ -1,0 +1,11 @@
+
+@page
+@model CreateCountryModel
+
+<form method="post">
+    <input asp-for="Input.CountryName" />
+    <input asp-for="Input.CountryCode" />
+    <button type="submit">Enviar</button>
+</form>
+
+<span asp-validation-for="Input.CountryCode"></span>

@@ -1,0 +1,13 @@
+
+@page
+@model SaveNoteModel
+
+<form method="post">
+    <textarea asp-for="Content"></textarea>
+    <button type="submit">Salvar</button>
+</form>
+
+@if (Model.FileName != null)
+{
+    <a href="/files/@Model.FileName">Download</a>
+}

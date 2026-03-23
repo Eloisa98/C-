@@ -1,0 +1,12 @@
+
+@page
+@model CreateCityHandlerModel
+<form method="post">
+    <input name="cityName" />
+    <button type="submit">Enviar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}
