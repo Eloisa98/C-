@@ -1,0 +1,11 @@
+
+@page
+@model IndexModel
+
+<h1>Cidades</h1>
+<ul>
+@foreach (var c in Model.Cities)
+{
+    <li>@c.Name</li>
+}
+</ul>
